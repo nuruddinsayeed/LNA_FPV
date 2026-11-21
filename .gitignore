@@ -2,3 +2,13 @@
 /logs
 yoloe-11s-seg.pt
 mobileclip_blt.ts
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+.venv/
+env/
