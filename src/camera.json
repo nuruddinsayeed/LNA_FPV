@@ -1,0 +1,16 @@
+{
+  "fx": 0.5173506367939363,
+  "fy": 0.9347148420451811,
+  "cx": 0.5130222018845074,
+  "cy": 0.495416900879835,
+  "k1": 0.1470812443490711,
+  "k2": -0.10810476371323668,
+  "k3": -0.05890812918621054,
+  "k4": 0.04930163481739377,
+  "model": "fisheye",
+  "width_px": 1920,
+  "height_px": 1080,
+  "reproj_err_px": 0.411,
+  "note": "checkerboard 9x6 @ 55mm, 20 views, full analog path, 4 outlier view(s) dropped [fisheye]",
+  "tilt_up_deg": 12.84
+}
