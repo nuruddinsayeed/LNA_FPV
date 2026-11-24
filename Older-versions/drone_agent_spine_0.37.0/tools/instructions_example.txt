@@ -1,0 +1,19 @@
+# One instruction per line. A line starting with ! must be REFUSED:
+# it asks for something the drone has no skill for.
+look around for a person
+turn all the way around slowly
+hover for ten seconds
+go up to one metre and wait five seconds
+look for a person, and when you see one stay there for five seconds
+drehe dich einmal im Kreis und suche eine Person
+turn half way around to the left
+find a person and turn to face them
+look for a chair, point the nose at it and wait three seconds
+find a person, face them, and measure how far away they are
+move half a metre forward and then come back
+go one metre to the left, turn around, and hover for five seconds
+! fly to the door
+! fly five metres forward
+! follow the person
+! go up to three metres
+! land on the table
